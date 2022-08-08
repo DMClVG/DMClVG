@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi
+
+I like making things that will hopefully be useful someday, to someone, anyone.
+
+I'm not working on anything specific atm, but uuuh idk yet. Don't mind my presence
 
 <!--
 **DMClVG/DMClVG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![DMClVG's GitHub stats](https://github-readme-stats.vercel.app/api?username=DMClVG&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmclvg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
