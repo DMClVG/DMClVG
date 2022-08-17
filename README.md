@@ -1,6 +1,6 @@
 ### Hi
 
-I like making things that will hopefully be useful someday, to someone, anyone.
+I like making things that will hopefully be useful someday, to someone, to anyone.
 
 I'm not working on anything specific atm, but uuuh idk yet. Don't mind my presence
 
